@@ -12,7 +12,7 @@ rules = """
                 "free_product" : "",
                 "flat_discount" : ""
             },
-            "expiry" : "17/11/14 23:59"
+            "expiry" : "17/11/18 23:59"
         },
 
          "r2": {
@@ -24,7 +24,7 @@ rules = """
                 "free_product" : 23,
                 "flat_discount" : 200
             },
-            "expiry" : "20/11/14 23:59"
+            "expiry" : "20/11/18 23:59"
         },
 
         "r3": {
@@ -37,7 +37,7 @@ rules = """
                 "flat_discount" : 80
 
             },
-            "expiry" : "16/11/14 23:59"
+            "expiry" : "16/11/18 23:59"
         },
 
         "r4": {
@@ -49,7 +49,7 @@ rules = """
                 "free_product" : 42,
                 "flat_discount" : ""
             },
-            "expiry" : "14/11/14 23:59"
+            "expiry" : "14/11/18 23:59"
          }
 
 }
