@@ -1,7 +1,7 @@
 E-Commerce-Rule-Engine
 ======================
 
-Rule Engine implemented in Python. The project came second in Zivame Hacakathon-2014.The algorithm was designed and implemented in the 24 hour hacking session.
+Rule Engine implemented in Python. The project came second in Zivame Hackathon-2014.The algorithm was designed and implemented in the 24 hour hacking session.
 
 Given a set of rules for discount, we need to apply a specific rule on the shopping cart. A simple example is applying discount=10% on total purchase greater then 500usd and applying discount= 15% on total purchase more then 1000usd. The rules can become more complex as we keep on including factors like item category, method of payment, place, customer etc. apart from cart value. Refer to the problem statement pdf enclosed for a better idea. 
 
